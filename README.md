@@ -246,5 +246,7 @@ Note: Use Python version: 3.8.5
   ```bash 
   python Gesture_Controller.py
   ```
+## Developer:
+## <a href="https:www.linkedin.com/in/s-jagadvikhyath-patel-482244226</a>
   
   
