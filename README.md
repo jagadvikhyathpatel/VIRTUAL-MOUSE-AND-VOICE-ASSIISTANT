@@ -243,7 +243,6 @@ Note: Use Python version: 3.8.5
   
   Or to run only Gesture Recognition without the voice assisstant:
   
-  Uncomment last 2 lines of Code in the file `Gesture_Controller.py`
   ```bash 
   python Gesture_Controller.py
   ```
